@@ -1,10 +1,11 @@
 import React from "react";
 import Layout from "./../components/Layout/Layout";
+import Home from "./Home";
 
 const Pagenotfound = () => {
   return (
     <Layout>
-      <h1>Page Not Found</h1>
+      <Home/>
     </Layout>
   );
 };
