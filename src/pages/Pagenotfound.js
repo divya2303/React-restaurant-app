@@ -4,9 +4,7 @@ import Home from "./Home";
 
 const Pagenotfound = () => {
   return (
-    <Layout>
-      <Home/>
-    </Layout>
+    <Home/>
   );
 };
 
