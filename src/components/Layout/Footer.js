@@ -39,7 +39,7 @@ const Footer = () => {
             },
           }}
         >
-          All Rights Reserved &copy; Resturant
+          All Rights Reserved &copy; Restaurant
         </Typography>
       </Box>
     </>
